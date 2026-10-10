@@ -2,6 +2,9 @@
 
 An advanced data-science assessment built from the **Global Weather Repository** dataset. The project combines time-series forecasting, anomaly detection, air-quality analysis, feature importance, and spatial analysis in an interactive Streamlit dashboard.
 ![Dashboard Screenshot](dashboard.png)
+## Live Demo
+
+[View the Streamlit Dashboard](https://global-weather-trend-forecasting-qpqho4wjogcbp4voeq37zt.streamlit.app/)
 ## What the project covers
 
 ### Advanced EDA
