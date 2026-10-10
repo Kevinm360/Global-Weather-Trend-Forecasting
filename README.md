@@ -1,7 +1,7 @@
 # Global Weather Trend Forecasting — Advanced Assessment
 
 An advanced data-science assessment built from the **Global Weather Repository** dataset. The project combines time-series forecasting, anomaly detection, air-quality analysis, feature importance, and spatial analysis in an interactive Streamlit dashboard.
-
+![Dashboard Screenshot](dashboard.png)
 ## What the project covers
 
 ### Advanced EDA
