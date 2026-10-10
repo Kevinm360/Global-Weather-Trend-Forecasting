@@ -59,20 +59,16 @@ weather_advanced_assessment/
 
 ## Run locally
 
-```bash
-python -m venv .venv
-```
+Install dependencies:
 
-Activate the environment, then install dependencies:
-
-```bash
-pip install -r requirements.txt
+```powershell
+python -m pip install -r requirements.txt
 ```
 
 Start the dashboard:
 
-```bash
-streamlit run app.py
+```powershell
+python -m streamlit run app.py
 ```
 
 ## Data cleaning and preprocessing
