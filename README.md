@@ -5,6 +5,7 @@ An advanced data-science assessment built from the **Global Weather Repository**
 ## Live Demo
 
 [View the Streamlit Dashboard](https://global-weather-trend-forecasting-qpqho4wjogcbp4voeq37zt.streamlit.app/)
+[Demo Video](https://youtu.be/HpdNrIy_YG4)
 ## What the project covers
 
 ### Advanced EDA
